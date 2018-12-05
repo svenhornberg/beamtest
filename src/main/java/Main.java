@@ -28,4 +28,3 @@ public class Main {
 		System.out.println("Current working directory : " + workingDir);
 	}
 }
-å
